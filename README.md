@@ -1,6 +1,6 @@
 # Strings
 
->This repository was created for homework in lessons №9 - "Strings".
+>This repository was created for homework in lessons №10 - "Exceptions and Errors".
 ## Tasks
 
 ### Mandatory tasks:
