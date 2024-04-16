@@ -1,4 +1,4 @@
-# Strings
+# Exceptions and Errors
 
 >This repository was created for homework in lessons №10 - "Exceptions and Errors".
 ## Tasks
